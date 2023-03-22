@@ -23,8 +23,8 @@
   --rgb-background: 19, 19, 19; /* The main background color */
   --rgb-text: 197, 200, 198; /* The main text color */
   --rgb-close-button: 212, 18, 39; /* The main "close this" or "deny" color */
-  --rgb-online-color: 124, 252, 0; /* The color used in the "online" user status symbol */
-  --rgb-afk-color: 255, 192, 0; /* The color used in the "idle" user status symbol */
+  --rgb-online-color: 57, 255, 20; /* The color used in the "online" user status symbol */
+  --rgb-afk-color: 255, 255, 51; /* The color used in the "idle" user status symbol */
   --rgb-dnd-color: 220, 20, 60; /* The color used in the "do not disturb" user status symbol */
   --rgb-streaming-color: 188, 19, 254; /* The color used in the "streaming X" user status symbol */
 
